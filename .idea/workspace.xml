@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c684075-f0ed-486c-8dc6-543bcd646861" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dVSMTFsDCZHRmM0wuhrdBYc9XP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="aws" />
+  </component>
+  <component name="RunManager" selected="AWS Lambda.[Local] App">
+    <configuration name="AppTest.successfulResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CDLambdaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="functions" />
+      <option name="MAIN_CLASS_NAME" value="functions.AppTest" />
+      <option name="METHOD_NAME" value="successfulResponse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[Local] App" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:mfayaazu" />
+      <option name="regionId" value="eu-west-1" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="functions.App" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" value="java8" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" value="{&#10;  &quot;key1&quot;: &quot;value1&quot;,&#10;  &quot;key2&quot;: &quot;value2&quot;,&#10;  &quot;key3&quot;: &quot;value3&quot;&#10;}" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <configuration name="[Local] HelloWorldFunction" type="aws.lambda" factoryName="Local" nameIsGenerated="true">
+      <option name="credentialProviderId" />
+      <option name="regionId" />
+      <option name="debugHost" value="localhost" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" />
+      <option name="logicalFunctionName" value="HelloWorldFunction" />
+      <option name="memorySize" value="128" />
+      <option name="runtime" />
+      <option name="templateFile" value="$PROJECT_DIR$/template.yaml" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="true" />
+      <option name="input" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" />
+        <option name="additionalLocalArgs" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="AWS Lambda.[Local] App" />
+        <item itemvalue="JUnit.AppTest.successfulResponse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c684075-f0ed-486c-8dc6-543bcd646861" name="Default Changelist" comment="" />
+      <created>1592508719241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592508719241</updated>
+      <workItem from="1592508721861" duration="2443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2480" y="205" key="#Project_Structure" timestamp="1592509184338">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="205" key="#Project_Structure/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592509184338" />
+    <state x="2518" y="95" key="#[Local]_App" timestamp="1592509427158">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2518" y="95" key="#[Local]_App/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592509427158" />
+    <state x="2618" y="294" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592509848182">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2618" y="294" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592509848182" />
+    <state width="1878" height="419" key="GridCell.Tab.0.bottom" timestamp="1592510491042">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510491042" />
+    <state width="1878" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510456161" />
+    <state width="1878" height="419" key="GridCell.Tab.0.center" timestamp="1592510491039">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="419" key="GridCell.Tab.0.center/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510491039" />
+    <state width="1878" height="419" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510456159" />
+    <state width="1878" height="419" key="GridCell.Tab.0.left" timestamp="1592510491039">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="419" key="GridCell.Tab.0.left/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510491039" />
+    <state width="1878" height="419" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510456158" />
+    <state width="1878" height="419" key="GridCell.Tab.0.right" timestamp="1592510491040">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="419" key="GridCell.Tab.0.right/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510491040" />
+    <state width="1878" height="419" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510456160" />
+    <state width="1878" height="500" key="GridCell.Tab.1.bottom" timestamp="1592510056059">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="500" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510056059" />
+    <state width="1878" height="500" key="GridCell.Tab.1.center" timestamp="1592510056058">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="500" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510056058" />
+    <state width="1878" height="500" key="GridCell.Tab.1.left" timestamp="1592510056057">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="500" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510056057" />
+    <state width="1878" height="500" key="GridCell.Tab.1.right" timestamp="1592510056059">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="500" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592510056059" />
+    <state x="2573" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1592508722174">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2573" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592508722174" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LambdaCDDemo/src/test/java/functions/AppTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
