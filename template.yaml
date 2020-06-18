@@ -6,7 +6,7 @@ Resources:
     Type: AWS::Serverless::Function
     Properties:
       CodeUri: LambdaCDDemo
-      Handler: functions.App::handleRequest
+      Handler: LambdaCDDemo.src.main.java.functions.App::handleRequest
       Runtime: java8
       MemorySize: 512
       Timeout: 30
